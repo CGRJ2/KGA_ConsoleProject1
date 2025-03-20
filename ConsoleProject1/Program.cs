@@ -9,6 +9,8 @@ namespace ConsoleProject1
     class Program
     {
         // 수정 테스트
+        // 수정 테스트2
+        // 수정 테스트3
 
         #region 이넘
         enum Classes
