@@ -8,9 +8,9 @@ namespace ConsoleProject1
 {
     class Program
     {
+        // 수정 테스트
+
         #region 이넘
-
-
         enum Classes
         {
             전사, 도적, 사냥꾼, 마법사, 사제

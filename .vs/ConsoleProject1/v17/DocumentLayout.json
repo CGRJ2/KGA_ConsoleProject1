@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pukah\\Desktop\\KGA\\KGA_Csharp_\\KGA_ConsoleProject1\\ConsoleProject1\\",
+  "WorkspaceRootPath": "C:\\Users\\pukah\\Desktop\\KGA\\KGA_Csharp_\\KGA_ConsoleProject1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9134D331-1F2D-43BA-83C8-81DFCFE7C061}|ConsoleProject1\\ConsoleProject1.csproj|c:\\users\\pukah\\desktop\\kga\\kga_csharp_\\kga_consoleproject1\\consoleproject1\\consoleproject1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9134D331-1F2D-43BA-83C8-81DFCFE7C061}|ConsoleProject1\\ConsoleProject1.csproj|c:\\users\\pukah\\desktop\\kga\\kga_csharp_\\kga_consoleproject1\\consoleproject1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9134D331-1F2D-43BA-83C8-81DFCFE7C061}|ConsoleProject1\\ConsoleProject1.csproj|solutionrelative:consoleproject1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pukah\\Desktop\\KGA\\KGA_Csharp_\\KGA_ConsoleProject1\\ConsoleProject1\\ConsoleProject1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pukah\\Desktop\\KGA\\KGA_Csharp_\\KGA_ConsoleProject1\\ConsoleProject1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleProject1\\Program.cs",
-              "ToolTip": "C:\\Users\\pukah\\Desktop\\KGA\\KGA_Csharp_\\KGA_ConsoleProject1\\ConsoleProject1\\ConsoleProject1\\Program.cs",
+              "ToolTip": "C:\\Users\\pukah\\Desktop\\KGA\\KGA_Csharp_\\KGA_ConsoleProject1\\ConsoleProject1\\Program.cs",
               "RelativeToolTip": "ConsoleProject1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T07:33:54.159Z",
               "EditorCaption": ""
